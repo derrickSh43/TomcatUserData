@@ -125,8 +125,4 @@ The custom `index.html` includes:
 
 ## **Author**
 - **Derrick Weil**  
-*(Optional: Add contact details, GitHub link, or LinkedIn profile)*
 
---- 
-
-Feel free to include screenshots of the welcome page and console outputs to make the README more interactive and visual.
